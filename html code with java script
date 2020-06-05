@@ -1,0 +1,19 @@
+<html>
+    <head>
+       <title>hello simranjeet</title> 
+    </head>
+    <body>
+        this is my page 
+        <script>
+      
+      var sum = 0;
+      for(i=0 ; i< 10; i++){
+          sum += i;
+    
+      }
+
+      alert(i);
+        </script>
+       
+    </body>
+</html>
